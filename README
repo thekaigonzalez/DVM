@@ -1,0 +1,17 @@
+KEYS
+
+[1] = README
+[2] = manual/dvm.md
+[3] = manual/dvm.md (at Specifics)
+
+DVM
+
+A D Virtual Machine.
+
+For a better version of this README [1], please refer to the markdown verison [2] of this page.
+
+the program contains several registers, such as:
+
+- add
+- print
+- bulk (lexicon-specific [3])

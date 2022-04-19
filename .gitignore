@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dvm
+dvm.so
+dvm.dylib
+dvm.dll
+dvm.a
+dvm.lib
+dvm-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.pdb

@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"seymo"
+	],
+	"copyright": "Copyright © 2022, seymo",
+	"description": "DLang VM.",
+	"license": "proprietary",
+	"name": "dvm"
+}
