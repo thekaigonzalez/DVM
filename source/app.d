@@ -166,7 +166,10 @@ void runCodeForParse(DL_VM vm, string[] txts)
 /// tests...
 void test1() {
 	DL_VM vm1 = new DL_VM();
-	vm1.execute([new VRegister(RegType.REG_PRINT, ["hello!"])]);
+	vm1.execute(
+		[
+			new VRegister(RegType.REG_PRINT, ["hello!"])
+		]);
 }
 
 void main()
